@@ -2,8 +2,8 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
-import Button from "@/components/Button";
-import { Card, CardContent } from "@/components/Card";
+import Button from "../components/Button";
+import { Card, CardContent } from "../components/Card";
 
 export default function Page() {
   return (
